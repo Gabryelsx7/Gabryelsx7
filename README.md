@@ -21,8 +21,7 @@ Me chamo Gabryel Chianca Lopes, tenho 18 anos e sou morador da cidade de Guarulh
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 ### 📊 Estatísticas

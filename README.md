@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gabryel Chianca Lopes, tenho 18 anos e moro na cidade de Guarulhos.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISA. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Me chamo Gabryel Chianca Lopes, tenho 18 anos e moro na cidade de Guarulhos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISA. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <img align="right" alt="study" height="190px" src="./src/study.gif">
 
